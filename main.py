@@ -17,7 +17,7 @@ def get_bot_response():
     chat=Chat(pairs,reflections)
     response = chat.respond(userText)
     if response == None:
-        return "Sorry,I don't understand that. Would you like a TV, Laptop or a Fridge?"
+        return "Sorry,I don't understand that. Could you re-enter your request ?"
     else:
         return response
 
