@@ -3,6 +3,7 @@
 This project consists of a chatbot which was developed for Mecury store.
 
 In total, four files are responsible for ensuring the chatbot is functonal. They are:
+
 a) index.html - This file is responsible for displaying the store webpage.
 b) main.py - All major python functions and libraries (flask,pairs and nltk.chat,util)
                   are contained here. 
